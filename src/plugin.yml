@@ -1,0 +1,5 @@
+main: me.trixkz.refillinventory.Main
+author: Trixkz
+version: 1.0
+name: RefillInventory
+description: Refill inventory plugin for the PyroHQ Network. 
